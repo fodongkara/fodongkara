@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Frank Odongkara</h1>
-<h3 align="center">A boring engineer interested in Fintech, IoT and ML</h3>
+<h1>Hi 👋, I'm Frank Odongkara</h1>
+<h3>A boring engineer interested in Fintech, IoT and ML</h3>
 
 - 🔭 I’m currently working on [Eversend](https://www.eversend.co)
 
