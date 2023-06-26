@@ -7,6 +7,6 @@
 
 - 🤝 I’m looking for help with [Eversend](https://www.eversend.co)
 
-- 💬 Ask me about **Eversend, Fintech, IoT, JavaScript, Python & Flutter**
+- 💬 Ask me about **Eversend, Fintech, IoT, JavaScript, Python & Golang**
 
 - 📫 How to reach me **fodongkara@gmail.com**
