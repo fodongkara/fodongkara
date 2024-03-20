@@ -1,12 +1,12 @@
 <h1>Hi 👋, I'm Frank Odongkara</h1>
-<h3>A boring engineer interested in Fintech, IoT and ML</h3>
+<h3>An amateur engineer specializing in Fintech, IoT and AI</h3>
 
-- 🔭 I’m currently working on [Eversend](https://www.eversend.co)
+- 🔭 I’m currently working on [Avendor](https://www.avendor.co)
 
 - 🌱 I’m currently learning **Rust, Pytorch**
 
-- 🤝 I’m looking for help with [Eversend](https://www.eversend.co)
+- 🤝 I’m looking for help with [Avendor](https://www.avendor.co)
 
-- 💬 Ask me about **Eversend, Fintech, IoT, JavaScript, Python & Golang**
+- 💬 Ask me about **Avendor, Fintech, IoT, JavaScript, Python & Golang**
 
 - 📫 How to reach me **fodongkara@gmail.com**
