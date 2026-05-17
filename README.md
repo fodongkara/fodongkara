@@ -1,10 +1,8 @@
 <h1>Hi 👋, I'm Frank Odongkara</h1>
-<h3>Software engineer specializing in IoT and AI</h3>
+<h3>Computer engineer with experience in IoT, Fintech and AI</h3>
 
-- 🔭 I’m currently working on Hawkclaw
+- 🔭 I’m currently working on Cadr AI
 
-- 🌱 I’m currently learning **nothing**
+- 💬 Ask me about **AI memory and autonomous agents**
 
-- 💬 Ask me about **Openclaw and other autonomous agents**
-
-- 📫 How to reach me **fodongkara@gmail.com**
+- 📫 How to reach me **fodongkara [at] gmail.com**
